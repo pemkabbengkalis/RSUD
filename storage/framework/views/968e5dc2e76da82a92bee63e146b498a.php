@@ -1,0 +1,1 @@
+<?php /**PATH /home/kulipixe/cmsv2/templates/newzona/group.blade.php ENDPATH**/ ?>
